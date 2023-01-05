@@ -14,13 +14,6 @@ Unity's default templete for 3D projects.
 
 ## Control 
 
-| Move | Move (Arrow Keys) | Mute (sounds) |
-| :---:|      :---:        | :---:         |
-| A    | Left              | Q             |
-| S    | Down              |
-| D    | Right             |
-| W    | Down              |
-
 
 ## Technology
 
