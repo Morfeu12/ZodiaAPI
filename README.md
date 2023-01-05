@@ -3,7 +3,7 @@
 
 ## The Project
 
-2) Você precisa ativar o ambiente, ou seja, definir uma origem (a VENV que criamos para instalar todos os recursos necessários, no caso, o Flask)
+Você precisa ativar o ambiente, ou seja, definir uma origem (a VENV que criamos para instalar todos os recursos necessários, no caso, o Flask)
 
 Linux/macOS
 
@@ -15,3 +15,9 @@ Windows
 
 > venv\Scripts\activate 
 OBS: Need cmd run admin mode 
+
+
+Run Flask
+
+(venv) $: flask --app <file-name.py> run
+
